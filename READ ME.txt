@@ -1,0 +1,23 @@
+Project : Encrypt and Decrypt Messages
+by Shilling
+
+
+What it is and does
+A Python program that is used to encrypt and decrypt messages.Enter your desired key(integer) and choose if you want to encrypt or decrypt the message
+
+Required Libraries and Dependencies
+Python 3.x is required to run this project. The Python executable should be in your default path, which the Python installer should have set.
+
+Project contents
+This project consists of only one file i.e. Encrypt and decrypt message which consists of the code.
+
+How to Run Project
+Download the project zip file to you computer and unzip the file. Or clone this repository to your desktop.
+
+Open the text-based interface for your operating system (e.g. the terminal window in Linux, the command prompt in Windows).
+
+Navigate to the project directory and type in the following command:
+
+python encrypt_decrypt.py
+
+
